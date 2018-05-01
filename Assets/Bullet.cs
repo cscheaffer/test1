@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour {
 
-	private Transform target;
+	//private Transform target;
 	public float speed = 70f;
 	public GameObject impactEffect;
 	// Use this for initialization
